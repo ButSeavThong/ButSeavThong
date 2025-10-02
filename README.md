@@ -43,7 +43,7 @@
 ### 🔗 Connect with Me
 
 - 🌐 [Portfolio](https://your-portfolio.com)
-- 📧 Email: your.email@example.com
+- 📧 Email: tong24772@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
 ---
