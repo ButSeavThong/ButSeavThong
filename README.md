@@ -68,9 +68,9 @@
 
 ### 🧠 Completed Project
 
-📘 **[NORKORBLOG](https://norkorblog.vercel.app/)** — A full-stack publishing platform for student research and technical reports.  
-🔧 **Role:** Full-Stack Developer (responsible for both backend and frontend)  
-💻 **Tech Stack:**  React, TailwindCSS, Redux Toolkit, Spring Boot, JPA, PostgreSQL, Keycloak  
+- 📘 **[NORKORBLOG](https://norkorblog.vercel.app/)** — A full-stack publishing platform for student research and technical reports.  
+- 🔧 **Role:** Full-Stack Developer (responsible for both backend and frontend)  
+- 💻 **Tech Stack:**  React, TailwindCSS, Redux Toolkit, Spring Boot, JPA, PostgreSQL, Keycloak  
 ---
 
 > 🚧 *Currently building DocuHub — a next-generation student publishing platform. Stay tuned for updates!*
