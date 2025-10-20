@@ -1,6 +1,10 @@
-# 👋 Hello, I'm But Seav Thong
+<!-- README.md -->
 
-🎯 Full-Stack Developer | 💡 Problem Solver | 💻 Lifelong Learner
+<h1 align="center">👋 Hello, I'm <strong>But Seav Thong</strong></h1>
+
+<p align="center">
+🎯 <strong>Full-Stack Developer</strong> | 💡 <strong>Problem Solver</strong> | 💻 <strong>Lifelong Learner</strong>
+</p>
 
 ---
 
@@ -25,9 +29,24 @@
 
 ---
 
+### 🧠 Currently Working On
+
+📘 **[DocuHub](https://www.docuhub.me/)** — A full-stack publishing platform for student research and technical reports.  
+🔧 **Role:** Full-Stack Developer (responsible for both backend and frontend)  
+💻 **Tech Stack:** Next.js, React, TailwindCSS, Redux Toolkit, Spring Boot, JPA, PostgreSQL, Keycloak  
+
+---
+
 ### 📊 GitHub Stats
 
-![Thong's GitHub stats](https://github-readme-stats.vercel.app/api?username=But-SeavThong&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seavthong&show_icons=true&theme=radical" alt="Thong's GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seavthong&theme=radical" alt="Thong's GitHub streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seavthong&layout=compact&theme=radical" alt="Top Languages" height="160" />
+</p>
 
 ---
 
@@ -42,11 +61,13 @@
 
 ### 🔗 Connect with Me
 
-- 🌐 [Portfolio](https://your-portfolio.com)
-- 📧 Email: tong24772@gmail.com
-- 💼 LinkedIn:((https://www.linkedin.com/in/thong-fazon-8a113a37a/)
+- 🌐 **Portfolio:** [https://your-portfolio.com](https://your-portfolio.com)
+- 📧 **Email:** [tong24772@gmail.com](mailto:tong24772@gmail.com)
+- 💼 **LinkedIn:** [Thong Fazon](https://www.linkedin.com/in/thong-fazon-8a113a37a/)
+- 🧑‍💻 **GitHub:** [@seavthong](https://github.com/seavthong)
 
 ---
 
-> 🚧 *Currently working on exciting new projects – stay tuned!*
+> 🚧 *Currently building DocuHub — a next-generation student publishing platform. Stay tuned for updates!*
 
+---
