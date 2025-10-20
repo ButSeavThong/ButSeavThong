@@ -44,7 +44,7 @@
 
 - 🌐 [Portfolio](https://your-portfolio.com)
 - 📧 Email: tong24772@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 💼 LinkedIn:((https://www.linkedin.com/in/thong-fazon-8a113a37a/)
 
 ---
 
