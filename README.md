@@ -64,7 +64,7 @@
 - 🌐 **Portfolio:** [https://your-portfolio.com](https://your-portfolio.com)
 - 📧 **Email:** [tong24772@gmail.com](mailto:tong24772@gmail.com)
 - 💼 **LinkedIn:** [Thong Fazon](https://www.linkedin.com/in/thong-fazon-8a113a37a/)
-- 🧑‍💻 **GitHub:** [@seavthong](https://github.com/seavthong)
+- 🧑‍💻 **GitHub:** [@seavthong](https://github.com/ButSeavThong)
 
 ---
 
