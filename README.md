@@ -61,7 +61,7 @@
 
 ### 🔗 Connect with Me
 
-- 🌐 **Portfolio:** [https://your-portfolio.com](https://your-portfolio.com)
+- 🌐 **Portfolio:** [https://ButSeavThong.com](https://your-portfolio.com)
 - 📧 **Email:** [tong24772@gmail.com](mailto:tong24772@gmail.com)
 - 💼 **LinkedIn:** [Thong Fazon](https://www.linkedin.com/in/thong-fazon-8a113a37a/)
 - 🧑‍💻 **GitHub:** [@ButSeavThong](https://github.com/ButSeavThong)
